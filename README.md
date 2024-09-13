@@ -1,7 +1,7 @@
 # About Me  
-- 🌱 I am a junior majoring in Software Engineering, studying at Harbin Institute of Technology (Weihai).
+- 🌱 I am a senior majoring in Software Engineering, studying at Harbin Institute of Technology (Weihai).
 
-- 👨🏽‍💻 My research direction is natural language processing and large language models.
+- 👨🏽‍💻 My research direction is Multimodal Large Language Models.
 
 # Interest 
 - Study: All interesting things related to artificial intelligence.
@@ -12,16 +12,9 @@
 ## Open-Source Projects:👯
 **As a member** :
 
-- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，Github 3k star ~
+- [self-llm](https://github.com/datawhalechina/self-llm.git) ： **《开源大模型食用指南》** 更适合中国宝宝的大模型部署指南，Github 7k+ star ~
 
-- [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn)：**《动手实现LLM中文版》** 提供了一个如何从头开始实现类似ChatGPT的大语言模型（LLM）的详细教程
-
-# Competition 
-- 心灵支持虚拟人助手，获得第十四届蓝桥杯大赛专项赛暨首届“元境杯”元宇宙创想+数字内容创作大赛3D互动创作赛道（学生组）全国三等奖
-# Recent Learning and Works
-- Learning Algorithms: acwing
-
-- peft methods of llm: [self-llm](https://github.com/datawhalechina/self-llm)
+- [llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn)：**《动手实现LLM中文版》** 提供了一个如何从头开始实现类似ChatGPT的大语言模型（LLM）的详细教程，Github 1k+ star ~
 
 
 # GitHub Stats 📫
